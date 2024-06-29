@@ -710,10 +710,7 @@ body{
   background-color: #333333;
   color: #ffffff;
 }
-html{
-  cursor: url("C:\Users/manee/OneDrive/Desktop/EventManagement/myapp/src/assets/images/classs/cursor.png"), auto;
-  scroll-behavior: smooth;
-}
+
 .az{
 text-align: center;
 margin-top: 30px;
