@@ -7,7 +7,7 @@ dcssds
 cvdzd
 scsscsc
 cvcscs
-czdcdcm
+czdcdcm  v vx
 czvzddc
 vzcvdcd
 cvcvcv
