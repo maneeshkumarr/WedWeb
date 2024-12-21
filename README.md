@@ -2,15 +2,3 @@
 <h2>This is my First Project Using React js</h1>
 <h3> I created This Website for the purpose of Managing the Wedding Events</h2>
 <h4>This is heplful for the people who give the contract to the workers</h4>
-asas
-dcssds
-cvdzd
-scsscsc
-cvcscs
-czdcdcm  v vx
-czvzddc
-vzcvdcd
-cvcvcvcxvcvdcv
-cvcvdzv
-cccvcv
- ccv cfvfcv
