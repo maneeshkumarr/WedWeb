@@ -1,4 +1,4 @@
-# Wedding Event Management Website
+wedding event# Wedding Event Management Website
 
 > A modern, responsive React.js web application for managing wedding events seamlessly.
 
