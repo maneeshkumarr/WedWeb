@@ -109,4 +109,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - **Email**: your-email@example.com  
 - **GitHub**: [username](https://github.com/username)  
 - **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-wedding event website 
